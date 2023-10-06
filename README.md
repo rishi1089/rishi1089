@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Web Developement, MERN Stack**
+- 💬 Ask me about **HTML,CSS,JS,REACT,BootStrap,DSA,Nodejs,Express,MongoDB,Mongoose**
 
 - 📫 How to reach me **rishisonawane5@gmail.com**
 
