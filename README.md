@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Sonawane</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Web Developer who focuses on writing clean, elegant and efficient code.</h3>
 
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Web Developement, MERN Stack**
 
 - 📫 How to reach me **rishisonawane5@gmail.com**
+
+- ⚡ Fun fact **Love to play sports and do gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
